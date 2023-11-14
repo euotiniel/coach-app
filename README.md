@@ -35,6 +35,11 @@ npm install
 
 ```
 pnpm dev
+
+# ou
+
+npm run dev
+
 ```
 
 ### Techs

@@ -21,7 +21,7 @@ export default function Footer() {
           </Links>{" "}
           . The source code is available on{" "}
           <Links
-            href="https://vercel.com/"
+            href="https://github.com/euotiniel/"
             className="border-b transition-all text-gray-500 duration-500 hover:border-gray-500"
           >
             GitHub
